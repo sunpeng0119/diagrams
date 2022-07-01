@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T05:36:56.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="thwyXBvOnsfvnVtIMxAa" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T05:44:17.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4vlQFfTpqYmEpL2W-yQx" version="20.0.4" type="github">
   <diagram id="QMwZuKWUQLhjBRnx-jMK" name="Page-1">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="670" height="710" as="geometry" />
+        </mxCell>
         <mxCell id="-BKEgDS_0GLzvvYC4a-P-1" value="印度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -12,6 +15,72 @@
         </mxCell>
         <mxCell id="_5WtuEp0KunaPHJ_aEdj-2" value="巴西" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-4" value="shop&lt;br&gt;商城网关服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="570" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="610" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-7" value="hermes&lt;br&gt;营销系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-8" value="eunomia&lt;br&gt;交易系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-9" value="eirene&lt;br&gt;收银台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-12" value="eirene&lt;br&gt;收银台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-14" value="pan&lt;br&gt;第三方商品推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-15" value="mars&lt;br&gt;第三方推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-16" value="lucky&lt;br&gt;推荐服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-17" value="activity&lt;br&gt;活动服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-18" value="基础" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="610" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-19" value="adam&lt;br&gt;账户和基础服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-20" value="smart-sso&lt;br&gt;权限系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-21" value="thanos&lt;br&gt;商品服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-22" value="zeus&lt;br&gt;推送服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-23" value="athena&lt;br&gt;翻译&amp;amp;国家配置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-24" value="存储&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-25" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-26" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-27" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-28" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5WtuEp0KunaPHJ_aEdj-29" value="为什么有这么多推荐系统？" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FF1B0A;" vertex="1" parent="1">
+          <mxGeometry x="105" y="415" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
